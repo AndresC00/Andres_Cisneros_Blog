@@ -12,4 +12,4 @@ about:
       href: https://github.com/AndresC00
 ---
 
-I'm Transmission and Distribution Electrical Engineer with 4 years of experience working as Project and Design engineer for electrical utilities in Colombia and United States of America. I have knowledge reliability design, cost estimates, and FEMA funding projects.
+I'm Transmission and Distribution Electrical Engineer with 4 years of experience working as Project and Design engineer for electrical utilities in Colombia and United States of America working in reliability design, cost estimates, and FEMA funding projects.
