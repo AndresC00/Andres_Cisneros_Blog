@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Andrés Cisneros - Personal Blog"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/AndresC00
+      - icon: linkedin
+        href: https://www.linkedin.com/in/andr%C3%A9s-cisneros-93b8ba184/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+
