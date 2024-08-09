@@ -24,7 +24,7 @@ After that two years, since 2022 I'm working for an engineering services company
 
 ![](1024-2274.jpg)
 
-#*Why the Master in Electrical Engineer?*
+# *Why the Master in Electrical Engineer?*
 
 After that 4 years of experience, I'm working on a AI based tool that allows to the utilities to decide to place protection devices (Reclosers, Trip Savers and Fault Current Indicators) on the distribution grid in order to reduce the restoration time and impact to the clients.
 
