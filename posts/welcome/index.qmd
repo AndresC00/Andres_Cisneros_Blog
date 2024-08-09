@@ -6,9 +6,9 @@ categories: [news]
 ---
 
 # *What I do in my work?*
-As Transmission and Distribution (T&D) Electrical Engineer I'm in charge of the design of the lines that feed to the final clients and you can see them inside of the urban areas (Distribution Lines) and the Lines that connect the substations (Transmission Lines)!
+As Transmission and Distribution (T&D) Electrical Engineer I'm in charge of the design of the lines that feed to the final clients and you can see them inside of the urban areas (Distribution Lines) and the Lines that connect the substations (Transmission Lines).
 
-
+![](T&D.png)
 
 
 # *What type of project I have participated?*
