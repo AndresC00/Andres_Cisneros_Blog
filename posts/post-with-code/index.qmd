@@ -1,13 +1,18 @@
 ---
 title: "Post With Code"
-author: "Harlow Malloc"
+author: "Andres Cisneros"
 date: "2024-08-09"
-categories: [news, code, analysis]
+categories: [code, analysis]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
+This is a post with executable code to calculate the Electric Power in Watts.
 
 ```{r}
-1 + 1
+voltage <- as.integer(readline(prompt = "Enter the rms voltage: "))
+current <- as.integer(readline(prompt = "Enter the rms current: "))
+Power <- voltage*current
+print (paste(voltage*current, " Watts"))
+
+
 ```

@@ -1,12 +1,32 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "A brief explanation about my work as Electrical Engineer"
+author: "Andres Cisneros"
 date: "2024-08-06"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+# *What I do in my work?*
+As Transmission and Distribution (T&D) Electrical Engineer I'm in charge of the design of the lines that feed to the final clients and you can see them inside of the urban areas (Distribution Lines) and the Lines that connect the substations (Transmission Lines)!
 
-![](thumbnail.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+
+
+# *What type of project I have participated?*
+As a Junior Engineer I worked by two years in the Company Air-e, which is the electric utility in charge of the Distribution and energy commercialization in  Atlantico, Magdalena and Guajira, I was in the new connections area responsible of grantee the electric supply to all the new clients as for example residential buildings, hospitals, government projects etc.
+
+![](Aire.jpg)
+
+![](Aire2.jpg)
+
+After that two years, since 2022 I'm working for an engineering services company that works for utilities in the united states designing the rebuild of distribution feeders up to 13.2 kV and Transmission Lines up to 38 kV, specifically in Puerto Rico for LUMA Energy under the requirements of FEMA funding projects.  
+
+
+
+![](1024-2274.jpg)
+
+#*Why the Master in Electrical Engineer?*
+
+After that 4 years of experience, I'm working on a AI based tool that allows to the utilities to decide to place protection devices (Reclosers, Trip Savers and Fault Current Indicators) on the distribution grid in order to reduce the restoration time and impact to the clients.
+
+
+

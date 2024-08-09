@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Andrés Cisneros - Personal Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 9, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 9, 2024\n\n\nAndres Cisneros\n\n\n\n\n\n\n\n\n\n\n\n\nA brief explanation about my work as Electrical Engineer\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nAndres Cisneros\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a post with executable code to calculate the Electric Power in watts.\n\nvoltage &lt;- as.integer(readline(prompt = \"Enter the rms voltage: \"))\n\nEnter the rms voltage: \n\ncurrent &lt;- as.integer(readline(prompt = \"Enter the rms current: \"))\n\nEnter the rms current: \n\nvoltage*current\n\n[1] NA"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "A little about me",
     "section": "",
-    "text": "I’m Transmission and Distribution Electrical Engineer with 4 years of experience working as Project and Design engineer for electrical utilities in Colombia and United States of America. I have knowledge in Transmission and Distribution reliability design, cost estimates, and FEMA funding projects."
+    "text": "I’m Transmission and Distribution Electrical Engineer with 4 years of experience working as Project and Design engineer for electrical utilities in Colombia and United States of America. I have knowledge reliability design, cost estimates, and FEMA funding projects."
   },
   {
     "objectID": "posts/welcome/index.html",
